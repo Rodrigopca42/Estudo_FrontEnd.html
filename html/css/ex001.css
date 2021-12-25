@@ -1,0 +1,17 @@
+html
+
+div {
+
+    background: rgba(0, 0, 252, 0.5);
+
+
+}
+
+p {
+    display: inline-block;
+    margin: block start 200px;
+    margin-block-end: 200px;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+}
+
