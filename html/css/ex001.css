@@ -3,15 +3,22 @@ html
 div {
 
     background: rgba(0, 0, 252, 0.5);
+    margin-left: 50px;
+    margin-right: 100px;
 
 
 }
 
 p {
     display: inline-block;
-    margin: block start 200px;
-    margin-block-end: 200px;
+    margin: block start 50px;
+    margin-block-end: 50px;
     margin-inline-start: 10px;
     margin-inline-end: 10px;
 }
 
+img.imac {
+
+    margin-left: 50px;
+    
+}
